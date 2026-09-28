@@ -1,0 +1,15 @@
+10:00:01 INFO Payment service started
+10:01:12 INFO Transaction 10001 processed
+10:02:31 INFO Transaction 10002 processed
+10:03:17 ERROR Transaction 10003 declined
+10:04:42 WARNING Transaction 10004 pending
+10:05:14 INFO Transaction 10005 processed
+10:06:11 ERROR Transaction 10006 declined
+10:07:24 INFO Transaction 10007 processed
+10:08:33 WARNING Payment provider response time high
+10:09:02 ERROR Transaction 10010 declined
+10:10:17 INFO Payment provider available
+10:11:44 ERROR Transaction 10013 declined
+10:12:03 WARNING Transaction 10014 pending
+10:13:29 ERROR Transaction 10016 declined
+10:14:55 INFO Payment service healthy
